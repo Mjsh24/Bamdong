@@ -1,0 +1,12 @@
+# 가상환경/캐시
+.venv/
+__pycache__/
+*.pyc
+
+# API Key / 비밀 설정
+.streamlit/
+.env
+
+# 기타 불필요 파일
+*.zip
+.DS_Store
