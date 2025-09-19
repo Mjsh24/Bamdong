@@ -4,3 +4,4 @@ geopy==2.4.1
 requests==2.32.3
 pandas==2.2.3
 qrcode==7.4.2
+streamlit-sortables @ git+https://github.com/okld/streamlit-sortables@v0.2.1
